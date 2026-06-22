@@ -213,6 +213,6 @@ This project can be improved further by adding:
 <a href="https://go.screenpal.com/watch/cO132fnusA8">➡️For message</a>
 <a href="https://go.screenpal.com/watch/cO1326nusB7">➡️For calls</a>
 
-# 15.Conclusion
+# 16.Conclusion
 
 The Smart Safety Pendant System using SIM800L GSM and NEO-6M GPS is a practical and effective embedded safety solution for emergency situations. It combines one-touch emergency calling and real-time location alerting in a compact design. The project is highly useful in personal safety applications such as women safety, elderly assistance, and child monitoring. By using simple hardware components and GSM/GPS technology, the system provides a low-cost and reliable emergency response mechanism.
