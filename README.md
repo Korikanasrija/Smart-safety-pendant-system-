@@ -31,6 +31,9 @@ In emergency situations, the user can press one of the two buttons:
 This system can be worn as a pendant or carried as a small portable unit. It offers a simple, low-cost, and practical safety solution for real-world use.
 
 ---
+# DEMONSTRATION
+<a href="https://go.screenpal.com/watch/cO132fnusA8">➡️For message</a>
+<a href="https://go.screenpal.com/watch/cO1326nusB7">➡️For calls</a>
 
 # 4. Objectives
 
@@ -208,11 +211,7 @@ This project can be improved further by adding:
 -Fall detection sensor
 -Heartbeat / health sensor integration
 -Hidden silent emergency mode
-
-# 15. Results
-<a href="https://go.screenpal.com/watch/cO132fnusA8">➡️For message</a>
-<a href="https://go.screenpal.com/watch/cO1326nusB7">➡️For calls</a>
-
-# 16.Conclusion
+ 
+# 15.Conclusion
 
 The Smart Safety Pendant System using SIM800L GSM and NEO-6M GPS is a practical and effective embedded safety solution for emergency situations. It combines one-touch emergency calling and real-time location alerting in a compact design. The project is highly useful in personal safety applications such as women safety, elderly assistance, and child monitoring. By using simple hardware components and GSM/GPS technology, the system provides a low-cost and reliable emergency response mechanism.
